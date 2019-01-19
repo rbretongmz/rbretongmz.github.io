@@ -5,28 +5,27 @@ tags: Normativa, RGPD
 
 # Claves de la nueva Ley de Protección de Datos Personales y garantía de los derechos digitales
 
-<div class="metadata singleline">[Andalucía es Digital](https://www.blog.andaluciaesdigital.es/author/perfilesmira/ "Entradas de Andalucía es Digital")<span class="delimiter"></span><time class="date">9 enero, 2019</time></div>
+### [Andalucía es Digital](https://www.blog.andaluciaesdigital.es/author/perfilesmira/ "Entradas de Andalucía es Digital") 9 enero, 2019
 
-<div class="leading-image">![Claves de la nueva Ley de Protección de Datos y garantía de derechos digitales](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2019/01/protecciondatos1024x512px-3-800x400.png)</div>
+![Claves de la nueva Ley de Protección de Datos y garantía de derechos digitales](https://www.blog.andaluciaesdigital.es/wp-content/uploads/2019/01/protecciondatos1024x512px-3-800x400.png)
 
 Desde el pasado mes de diciembre, España cuenta con una nueva norma que se adapta a los cambios de los últimos años en la Sociedad Digital ¿Sabes cuáles son las claves de la nueva Ley de Protección de Datos Personales y garantía de los derechos digitales? ¿en qué te afecta como internauta y cómo trabajador? Conoce más en este post.
 
-<span></span>
 
-Artículos relacionados:
+### Artículos relacionados:
 
 *   [Cómo adaptar tu web al nuevo Reglamento General de Protección de Datos de la UE](https://www.blog.andaluciaesdigital.es/nuevo-reglamento-general-proteccion-de-datos/)
 *   [Claves y beneficios de la desconexión digital](https://www.blog.andaluciaesdigital.es/desconexion-digital-beneficios/)
 
 ## Claves de la Ley de Protección de Datos y garantía de los derechos digitales para las empresas
 
-El Senado aprobó el pasado mes de diciembre la nueva Ley de Protección de Datos Personales y garantía de los derechos digitales ([consulta el documento oficial del BOE en este enlace](https://www.boe.es/boe/dias/2018/12/06/pdfs/BOE-A-2018-16673.pdf)) que se adapta a la normativa europea sobre esta cuestión y que, desde el pasado mes de mayo de 2018, es de obligado cumplimiento para los estados miembros de la Unión Europea.
+El Senado aprobó el pasado mes de diciembre la nueva Ley de Protección de Datos Personales y garantía de los derechos digitales ([consulta el documento actualizado y oficial del BOE en este enlace](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673)) que se adapta a la normativa europea sobre esta cuestión y que, desde el pasado mes de mayo de 2018, es de obligado cumplimiento para los estados miembros de la Unión Europea.
 
 ¿Qué novedades trae esta normativa en nuestro país y cómo afecta a empresas, internautas y administraciones? Estas son algunas de las claves más destacadas desde el punto de vista de las empresas:
 
 ### 1- Desconexión digital
 
-Una de las novedades más destacadas de la nueva Ley de Protección de Datos Personales y garantía de los derechos digitales es el reconocimiento al **derecho a la desconexión digital**, presente en el **artículo 88** de la norma y que establece que “los trabajadores y los empleados públicos tendrán derecho a la desconexión digital a fin de garantizar, fuera del tiempo de trabajo legal o convencionalmente establecido, el respeto de su tiempo de descanso, permisos y vacaciones, así como de su intimidad personal y familiar”.
+Una de las novedades más destacadas de la nueva Ley de Protección de Datos Personales y garantía de los derechos digitales es el reconocimiento al **derecho a la desconexión digital**, presente en el **[artículo 88](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673#a8-10)** de la norma y que establece que “los trabajadores y los empleados públicos tendrán derecho a la desconexión digital a fin de garantizar, fuera del tiempo de trabajo legal o convencionalmente establecido, el respeto de su tiempo de descanso, permisos y vacaciones, así como de su intimidad personal y familiar”.
 
 Este derecho, que ya ha sido reconocido en otros países como Francia, apuesta por la negociación en el ámbito de la empresa y prima aspectos tan importantes como la conciliación familiar o los riesgos de la fatiga informática, incluido en aquellos supuestos en los que el empleado trabaje desde casa.
 
@@ -38,7 +37,7 @@ También en el terreno laboral, la Ley Orgánica fija, en su **artículo 89**, l
 
 Otro de los supuestos que contempla la Ley de Protección de Datos Personales y garantía de los derechos digitales en el ámbito de la relación de empresas y trabajadores es el referido a los sistemas de geolocalización. Según la normativa, en su **artículo 90**, las empresas tienen derecho a utilizar estos sistemas y los datos que generen, pero solo previa comunicación y acuerdo con los trabajadores y dentro del horario de trabajo para no colisionar con el derecho a la desconexión digital.
 
-> [¿Qué novedades introduce la nueva ley de Protección de Datos en relación a las empresas y sus trabajadores?](https://twitter.com/intent/tweet?url=https://www.blog.andaluciaesdigital.es/?p=11957&text=%C2%BFQu%C3%A9%20novedades%20introduce%20la%20nueva%20ley%20de%20Protecci%C3%B3n%20de%20Datos%20en%20relaci%C3%B3n%20a%20las%20empresas%20y%20sus%20trabajadores%3F&via=AndaluciaDig&related=AndaluciaDig) </span>[﻿Clic para tuitear](https://twitter.com/intent/tweet?url=https://www.blog.andaluciaesdigital.es/?p=11957&text=%C2%BFQu%C3%A9%20novedades%20introduce%20la%20nueva%20ley%20de%20Protecci%C3%B3n%20de%20Datos%20en%20relaci%C3%B3n%20a%20las%20empresas%20y%20sus%20trabajadores%3F&via=AndaluciaDig&related=AndaluciaDig)</span>
+> [¿Qué novedades introduce la nueva ley de Protección de Datos en relación a las empresas y sus trabajadores?](https://twitter.com/intent/tweet?url=https://www.blog.andaluciaesdigital.es/?p=11957&text=%C2%BFQu%C3%A9%20novedades%20introduce%20la%20nueva%20ley%20de%20Protecci%C3%B3n%20de%20Datos%20en%20relaci%C3%B3n%20a%20las%20empresas%20y%20sus%20trabajadores?&via=AndaluciaDig&related=AndaluciaDig) 
 
 ## Claves de la Ley de Protección de Datos y garantía de los derechos digitales para los internautas
 
@@ -72,7 +71,7 @@ Esta opción viene recogida en el **artículo 3** de la normativa y se especific
 
 De la misma manera, se otorga a la Fiscalía de Menores la potestad de actuar de oficio en el caso de los datos personales de menores de edad o de personas que tengan una discapacidad; en ambos supuestos también se otorga este derecho a sus tutores legales.
 
-> [Estas son las novedades de la nueva Ley Orgánica de Protección de Datos Personales para los internautas ¿Conoces tus derechos en el entorno digital?](https://twitter.com/intent/tweet?url=https://www.blog.andaluciaesdigital.es/?p=11957&text=Estas%20son%20las%20novedades%20de%20la%20nueva%20Ley%20Org%C3%A1nica%20de%20Protecci%C3%B3n%20de%20Datos%20Personales%20para%20los%20internautas%20%C2%BFConoces%20tus%20derechos%20en%20el%20entorno%20digital%3F&via=AndaluciaDig&related=AndaluciaDig) </span>[﻿Clic para tuitear](https://twitter.com/intent/tweet?url=https://www.blog.andaluciaesdigital.es/?p=11957&text=Estas%20son%20las%20novedades%20de%20la%20nueva%20Ley%20Org%C3%A1nica%20de%20Protecci%C3%B3n%20de%20Datos%20Personales%20para%20los%20internautas%20%C2%BFConoces%20tus%20derechos%20en%20el%20entorno%20digital%3F&via=AndaluciaDig&related=AndaluciaDig)</span>
+> [Estas son las novedades de la nueva Ley Orgánica de Protección de Datos Personales para los internautas ¿Conoces tus derechos en el entorno digital?](https://twitter.com/intent/tweet?url=https://www.blog.andaluciaesdigital.es/?p=11957&text=Estas%20son%20las%20novedades%20de%20la%20nueva%20Ley%20Org%C3%A1nica%20de%20Protecci%C3%B3n%20de%20Datos%20Personales%20para%20los%20internautas%20%C2%BFConoces%20tus%20derechos%20en%20el%20entorno%20digital?&via=AndaluciaDig&related=AndaluciaDig) 
 
 ### 5- Derecho de rectificación y supresión
 
@@ -92,4 +91,4 @@ Uno de los cambios más significativos que introduce esta Ley de Protección de 
 
 La nueva normativa también se ocupa de las relaciones con las administraciones en el entorno digital y especifica, en su disposición final duodécima, que “los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración. La administración actuante podrá consultar o recabar dichos documentos salvo que el interesado se opusiera a ello. No cabrá la oposición cuando la aportación del documento se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección”.
 
-De la misma manera, se obliga a las administraciones a disponer de elementos de control y tratamiento de los datos personales de los usuarios, conforme a las especificaciones del [Esquema Nacional de Seguridad](https://administracionelectronica.gob.es/ctt/ens#.XDYpxXZtHkc)
+De la misma manera, se obliga a las administraciones a disponer de elementos de control y tratamiento de los datos personales de los usuarios, conforme a las especificaciones del [Esquema Nacional de Seguridad](https://administracionelectronica.gob.es/ctt/ens)
