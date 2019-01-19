@@ -1,3 +1,8 @@
+---
+layout: post
+tags: Normativa, RGPD
+---
+
 # Claves de la nueva Ley de Protección de Datos Personales y garantía de los derechos digitales
 
 <div class="metadata singleline">[Andalucía es Digital](https://www.blog.andaluciaesdigital.es/author/perfilesmira/ "Entradas de Andalucía es Digital")<span class="delimiter"></span><time class="date">9 enero, 2019</time></div>
