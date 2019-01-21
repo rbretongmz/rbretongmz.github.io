@@ -9,6 +9,8 @@ tags: software, macosx
 
 [Settapp](https://setapp.com/es) es una especie de “Netflix” pero de aplicaciones para macosx. 
 
+Os pongo un pequeño comentario y os animo a que seguir los enlaces.
+
 Aquí pongo las que más me gustan, en [listado completo de aplicaciones de Setapp siguiendo el enlace](https://setapp.com/apps). ¿Quieres echar un vistazo al listado? ¿Tienes alguna pregunta o sugerencia? Por favor, deja algún comentario 
 
 ## Productividad
