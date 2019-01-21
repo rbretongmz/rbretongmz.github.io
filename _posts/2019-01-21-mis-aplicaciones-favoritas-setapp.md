@@ -7,9 +7,9 @@ tags: software, macosx
 
 # Mis aplicaciones favoritas de [Setapp](https://setapp.com/es)
 
-[Settapp](#)(https://setapp.com/es) es una especie de “Netflix” pero de aplicaciones para macosx. 
+[Settapp](https://setapp.com/es) es una especie de “Netflix” pero de aplicaciones para macosx. 
 
-Aquí pongo las que más me gustan, en [listado completo de aplicaciones de Setapp siguiendo el enlace](https://setapp.com/apps).
+Aquí pongo las que más me gustan, en [listado completo de aplicaciones de Setapp siguiendo el enlace](https://setapp.com/apps). ¿Quieres echar un vistazo al listado? ¿Tienes alguna pregunta o sugerencia? Por favor, deja algún comentario 
 
 ## Productividad
 
@@ -17,18 +17,22 @@ Aquí pongo las que más me gustan, en [listado completo de aplicaciones de Seta
 
 Genial creador de mapa mentales, muy bonitos y con grandes opciones de compartir entre formatos. Creo que no voy a poder vivir sin ella a partir de ahora
 
-### [PdfPen](https://setapp.com/es/apps/pdfpen)() Editor de PDF
+### [PdfPen](https://setapp.com/es/apps/pdfpen) Editor de PDF
 
 Para editar .pdf, censurar partes, añadir sellos o marcar de aguas, hacer OCR. O la función de exportar a .docx!
 
 No es Adobe Acrobat pero hace las cosas imprescindibles.  Así que es imprescindibles
 
-## Pequeñas utilidades utilísima
+### [PdfSearch](https://setapp.com/apps/pdf-search) Búsqueda en .pdf
+
+Para encontrar algo en un .pdf (en lugar de buscar) utilizando intelegencia artificial.
+
+## Pequeñas utilidades muy útiles
 
 ### [Tripmode](https://setapp.com/apps/tripmode) Gestiona tu tráfico de datos
 ¿Que tu Mac te ha consumido tu tarifa de datos y no sabes en qué? Con esto controlas todo lo que se conecta a internet según con qué wifi y habilitas sólo lo que necesita conectarse (y vas viendo lo que consumes). La de dinero que me ha ahorrado…
 
-## [Numi](https://setapp.com/es/apps/numi) Supercalculadora
+### [Numi](https://setapp.com/es/apps/numi) Supercalculadora
 
 Una super calculadora para pequeños cálculo se las complicaciones de una hoja de cálculo
 
@@ -43,7 +47,7 @@ Para gestionar lo que vas copiando en el cortapapeles y tenerlo disponible, edit
 
 ### [Merlin Project](https://setapp.com/es/apps/merlin-project-express) Diagramas de Gantt
 
-No es MS Project pero permite hacer diagramas de Gantt más que decentes. Muy buen diseño.
+No es MS Project pero permite hacer diagramas de Gantt más que decentes. Muy buen diseño y muy completo.
 
 ## Desarrollo
 
