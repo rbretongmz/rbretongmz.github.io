@@ -1,3 +1,10 @@
+---
+layout: post
+comments: true
+tags: Normativa, RGPD
+---
+
+
 # Mis aplicaciones favoritas de [Setapp](https://setapp.com/es)
 
 [Settapp](#)(https://setapp.com/es) es una especie de “Netflix” pero de aplicaciones para macosx. 
