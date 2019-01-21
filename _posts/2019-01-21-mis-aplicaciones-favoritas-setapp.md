@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-tags: Normativa, RGPD
+tags: software, macosx
 ---
 
 
