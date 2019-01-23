@@ -7,7 +7,10 @@ tags: software, macosx
 
 # Mis aplicaciones favoritas de [Setapp](https://setapp.com/es)
 
-[Settapp](https://setapp.com/es) es una especie de “Netflix” pero de aplicaciones para macosx. 
+
+[Settapp](https://setapp.com/es) es una especie de “Netflix” pero de aplicaciones para macosx.  
+
+Por uno cuota anual (sobre todo con el [plan familiar](https://my.setapp.com/family)) tienes acceso un enorme número de aplicaciones y **todas sus actualizaciones**.
 
 Os pongo un pequeño comentario y os animo a que seguir los enlaces.
 
@@ -29,6 +32,11 @@ No es Adobe Acrobat pero hace las cosas imprescindibles.  Así que es imprescind
 
 Para encontrar algo en un .pdf (en lugar de buscar) utilizando intelegencia artificial.
 
+### [Capto](https://setapp.com/apps/capto) Captura de pantalla avanzada
+![https://store-setapp-com.imgix.net/app/175/1544/icon-1541768946-5be586f271465.png?ixlib=php-2.1.0&q=75&w=320](https://store-setapp-com.imgix.net/app/175/1544/icon-1541768946-5be586f271465.png?ixlib=php-2.1.0&q=75&w=320)
+
+Captura de pantalla como debe ser: editándola y cambiando el nombre después.
+
 ## Pequeñas utilidades muy útiles
 
 ### [Tripmode](https://setapp.com/apps/tripmode) Gestiona tu tráfico de datos
@@ -44,6 +52,10 @@ Para gestionar lo que vas copiando en el cortapapeles y tenerlo disponible, edit
 ### [Bartender](https://setapp.com/apps/bartender)Para dominar la barra de tareas
 
 ¿oTienes la barra superior derecha de tareas llenas de iconos que ya no se ven? ¿Quieres gestionar cuándo se ven? Pues con Bartender lo controlas todo.
+
+### [Tootfairy](https://setapp.com/apps/toothfairy) Conexión Airpods
+
+¿Tienes problemas para conectar tus AirPods a tu Mac? Hazlo con un solo click en la barra de herramientas
 
 ## Tareas
 
@@ -90,3 +102,26 @@ Por si alguna vez quieres recuperar algún dato borrado por error. Mejor no tene
 
 ### [Glumotion](https://setapp.com/apps/gluemotion) Time lapse avanzados
 Para crea time-lapso pero que quedan bien-bien.
+
+### [Ulysses](https://setapp.com/apps/ulysses) El “EDITOR” de Markdown 
+
+Si quieres escribir un texto complejo o un libro, esta es una de las mejores formas. Incluyo la versión para iOS.
+
+## Hacking
+### [Macpilot](https://setapp.com/apps/macpilot) Control de mac
+Para controlar y aplicar opciones ocultas de tu MAC. Parecido a Onyx pero muchos más avanzado.
+
+
+## Utilidades 
+
+### [BetterZip](https://setapp.com/apps/betterzip) Compresos de archivos
+
+![](https://store-setapp-com.imgix.net/app/245/1482/icon-1539849145-5bc83bb9eb5ee.png?ixlib=php-2.1.0&q=75&w=320)
+
+Para comprimir y descomprimir con opciones avanzados: sin archivos “de mac”, con contraseña, RAR, .etc.
+
+### [Folx](https://setapp.com/apps/folx) El descargador
+
+![](https://store-setapp-com.imgix.net/app/202/1690/icon-1547823561-5c41e9c91b205.png?ixlib=php-2.1.0&q=75&w=320)
+
+Decarga todo lo que quieras, como torrents o vídeos de youtube.
