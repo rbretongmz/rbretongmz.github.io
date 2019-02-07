@@ -110,7 +110,7 @@ gtag: "UA-134078404-1"
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-PBGRQPJ"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -157,7 +157,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year-:month-:day-:title/
