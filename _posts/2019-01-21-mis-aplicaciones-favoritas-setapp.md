@@ -114,7 +114,7 @@ Para controlar y aplicar opciones ocultas de tu MAC. Parecido a Onyx pero muchos
 
 ## Utilidades 
 
-### [BetterZip](https://setapp.com/apps/betterzip) Compresos de archivos
+### [BetterZip](https://setapp.com/apps/betterzip) Compresor de archivos
 
 ![](https://store-setapp-com.imgix.net/app/245/1482/icon-1539849145-5bc83bb9eb5ee.png?ixlib=php-2.1.0&q=75&w=320)
 
