@@ -147,6 +147,12 @@ Para controlar y aplicar opciones ocultas de tu MAC. Parecido a Onyx pero muchos
 
 Para comprimir y descomprimir con opciones avanzados: sin archivos “de mac”, con contraseña, RAR, .etc.
 
+### [Unite] (https://setapp.com/apps/unite) Crea aplicaciones separadas de tus web favoritas
+![Unite](https://store-setapp-com.imgix.net/app/340/1907/icon-1555336356-5cb48ca4ba097.png?ixlib=php-2.1.0&q=75&w=320)
+
+¿Usas mucho una página web? Pues probablemente no sepas que se puede tener como una aplicación separada (en lugar de como una pestaña) ¡Y además es más productivo!
+
+
 ### [Folx](https://setapp.com/apps/folx) El descargador
 
 ![Folx](https://store-setapp-com.imgix.net/app/202/1690/icon-1547823561-5c41e9c91b205.png?ixlib=php-2.1.0&q=75&w=320)
