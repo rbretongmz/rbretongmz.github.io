@@ -42,6 +42,11 @@ Para encontrar algo en un .pdf (en lugar de buscar) utilizando intelegencia arti
 
 Captura de pantalla como debe ser: editándola y cambiando el nombre después.
 
+### [Yoink](https://setapp.com/apps/yoink) Simplifica y mejora el arrastrar y soltar
+![Yoink](https://store-setapp-com.imgix.net/app/330/1928/icon-1556265821-5cc2bb5d7bd82.png?ixlib=php-2.1.0&q=75&w=320)
+
+Te permite ir guardando archivos para después enviarlos en un correo, moverlos de sitio. ¡Se vuelve en una aplicación imprescindible cuando la usas!
+
 ## Pequeñas utilidades muy útiles
 
 ### [Tripmode](https://setapp.com/apps/tripmode) Gestiona tu tráfico de datos
