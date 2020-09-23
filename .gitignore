@@ -8,3 +8,5 @@ _site
 Thumbs.db
 ehthumbs.db
 .UlyssesRoot
+_posts/.Ulysses-Group.plist
+_posts/.Ulysses-Settings.plist
