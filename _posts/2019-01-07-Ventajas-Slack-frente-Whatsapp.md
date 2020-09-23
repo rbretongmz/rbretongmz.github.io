@@ -3,8 +3,8 @@ layout: post
 tags: Slack, Productividad
 ---
 
-<!--RBG: Por favor, hacer observaciones o ediciones--> 
-<!--RBG:https://blog.rescuetime.com/slack-focus-guide/--> 
+<!--RBG: Por favor, hacer observaciones o ediciones-->
+<!--RBG:https://blog.rescuetime.com/slack-focus-guide/-->
 
 Ventajas de Slack (por ejempo) frente a Whatsapp (por ejemplo)
 ===
@@ -18,7 +18,7 @@ En prinicipo puede parecer que ha existe WhatsApp para la comunicación en entor
 Comprender las diferencias es fundamental para:
 
 - Comprender por qué puedes necesitar usar Whatsapp en tu trabajo
-- Usar Slack adecuadamente y evitar que se convierta en un *GRUPO-DE-WHATSAPP-GIGANTE"
+- Usar Slack adecuadamente y evitar que se convierta en un \*GRUPO-DE-WHATSAPP-GIGANTE"
 
 ## Canales
 
@@ -27,10 +27,10 @@ Dentro de un grupo de trabajo, son lugares únicos en los que se reúnen:
   - **mensajes**, 
   - **archivos**
   - **herramientas** 
-  
+	  
 La mayor parte de la comunicación entre miembros tiene lugar en los canales.
 
-- Pueden organizarse en torno a cualquier cosa, como departamentos, proyectos o incluso ubicaciones de oficinas, y puedes crear tantos como necesites. 
+- Pueden organizarse en torno a cualquier cosa, como departamentos, proyectos o incluso ubicaciones de oficinas, y puedes crear tantos como necesites.
 
 - Los miembros del equipo pueden unirse a los canales y salir de ellos cuando quieran; no como con esas interminables cadenas de correos.
 
@@ -57,9 +57,9 @@ Para evitarlo, existen múltiples formas de **controlar las notificaciones en Sl
 
 - **División en canales**: sólo recibo mensajes de los canales (grupos de) a los que este suscrito
 - **Notificación por canales**: para cada canal puedo elegir si recibo.
-    - Todas las notificaciones
-    - Sólo cuando me mecionen
-    - Ninguna notificación
+	- Todas las notificaciones
+	- Sólo cuando me mecionen
+	- Ninguna notificación
 - **Edición de mensajes enviados**: podemos editar un mensaje ya enviado y no tener que enviar otro nuevo (para evitar confusiones a emisor y receptor el mensaje se marca como *Editado*)
 - **Agrupación de mensajes**: podemos enviar varias líneas de mensajes en una sola. Lo explicaremos más adelantes
 
@@ -92,7 +92,7 @@ Configura las [notificaciones](https://get.slack.help/hc/es/articles/201355156#c
 
 ## Evitar el ruido en Slack
 
-Basado en [este artículo](https://get.slack.help/hc/es/articles/218551977-Cómo-disminuir-el-ruido-de-fondo-en-Slack)
+Basado en [este artículo](https://get.slack.help/hc/es/articles/218551977-C%C3%B3mo-disminuir-el-ruido-de-fondo-en-Slack)
 
 ### Agrupar notificaciones
 
@@ -107,7 +107,7 @@ Al final se lee igual pero se interrumpe menos y los demás miembros te lo agrad
 
 ### [Mencionar](https://get.slack.help/hc/es/articles/205240127-Mencionar-a-un-miembro) a los miembros
 
-En una canal puede haber personas que tengan silenciadas las notificaciones sólo si se les notifica a ell@s personalmente. Así que lo mejor es mencionalas. Empieza escribiendo @ y comenzara a sugerirte posibles miembros a los que mencionar.
+En una canal puede haber personas que tengan silenciadas las notificaciones sólo si se les notifica a ell@s personalmente. Así que lo mejor es mencionarlas. ¿Cómo?: empieza escribiendo @ y comenzara a sugerirte posibles miembros a los que mencionar.
 
 ![](https://i.imgur.com/o2ObLbk.png)
 
