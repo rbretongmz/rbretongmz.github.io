@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-tags: 'lcsp, boe'
+tags: lcsp, boe
 title: Modificación artículo 32 LCSP
 ---
 
