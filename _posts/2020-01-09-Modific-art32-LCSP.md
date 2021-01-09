@@ -1,11 +1,9 @@
 ---
 layout: post
 published: true
-title: >-
-  Modificaciones art 32 LCSP límites de prestaciones parciales contratadas con
-  terceros en encargos a medios propios para fomento de las telecomunicaciones,
-  el desarrollo de la sociedad de la información y sociedad digital
+tags: lcsp, boe
 ---
+
 # Modificaciones art 32 LCSP límites de prestaciones parciales contratadas con terceros en encargos a medios propios para fomento de las telecomunicaciones, el desarrollo de la sociedad de la información y sociedad digital
 
 Desde el 01/01/2021 con la entrada en vigor de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021 se ha modificado . En concreto "Artículo 32. Encargos de los poderes adjudicadores a medios propios personificados.", que es básico (excepto una )
