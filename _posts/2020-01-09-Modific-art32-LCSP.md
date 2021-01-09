@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Modificaciones art 32 LCSP límites de prestaciones parciales contratadas con
   terceros en encargos a medios propios para fomento de las telecomunicaciones,
