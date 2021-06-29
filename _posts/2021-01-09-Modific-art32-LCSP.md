@@ -1,25 +1,24 @@
 ---
 layout: post
 published: true
-title: >-
-  Modificaciones art 32 LCSP límites de prestaciones parciales contratadas con
-  terceros en encargos a medios propios para fomento de las telecomunicaciones,
-  el desarrollo de la sociedad de la información y sociedad digital
+tags: lcsp, boe
+title: Modificación artículo 32 LCSP
 ---
+
 # Modificaciones art 32 LCSP límites de prestaciones parciales contratadas con terceros en encargos a medios propios para fomento de las telecomunicaciones, el desarrollo de la sociedad de la información y sociedad digital
 
-Desde el 01/01/2021 con la entrada en vigor de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021 se ha modificado . En concreto "Artículo 32. Encargos de los poderes adjudicadores a medios propios personificados.", que es básico (excepto una )
+Desde el 01/01/2021 con la entrada en vigor de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021 se ha modificado la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. En concreto el "Artículo 32. Encargos de los poderes adjudicadores a medios propios personificados.", que consituye legislación básica (excepto la letra c) del apartado 6)
 
-En concreto se ha modificado la "b) El importe de las prestaciones parciales que el medio propio pueda contratar con terceros no excederá del 50 por ciento de la cuantía del encargo.”..
+Se ha modificado el artículo 32.7 b):
+> b) El importe de las prestaciones parciales que el medio propio pueda contratar con terceros no excederá del 50 por ciento de la cuantía del encargo...
 
-A pasado de :
+El tercer párrafo de esta letra ha pasado de tener esta redacción:
 
 > Tampoco será aplicable a los contratos que celebren los medios propios a los que se les haya encargado la prestación de servicios informáticos y tecnológicos a la Administración Pública con el fin de garantizar la compatibilidad, la comunicabilidad y la seguridad de redes y sistemas, así como la integridad, fiabilidad y confidencialidad de la información.
 
+A tener la siguiente readacción:
 
-A pasado a tener la siguiente readacción esto:
-
-> Tampoco será aplicable a los contratos que celebren los medios propios a los que se les haya encargado la prestación de servicios informáticos y tecnológicos a la Administración Pública con el fin de garantizar la compatibilidad, la comunicabilidad y la seguridad de redes y sistemas, la integridad, fiabilidad y confidencialidad de la información, así como a los que celebren los medios propios cuyas funciones sean el fomento de las telecomunicaciones, el desarrollo de la sociedad de la información y sociedad digital.
+> Tampoco será aplicable a los contratos que celebren los medios propios a los que se les haya encargado la prestación de servicios informáticos y tecnológicos a la Administración Pública con el fin de garantizar la compatibilidad, la comunicabilidad y la seguridad de redes y sistemas, la integridad, fiabilidad y confidencialidad de la información, *así como a los que celebren los medios propios cuyas funciones sean el fomento de las telecomunicaciones, el desarrollo de la sociedad de la información y sociedad digital*.
 
 Esta es la redacción completa del 32.7 tras la modificación: 
 
@@ -34,3 +33,7 @@ Esta es la redacción completa del 32.7 tras la modificación:
 > Tampoco será aplicable a los contratos que celebren los medios propios a los que se les haya encargado la prestación de servicios informáticos y tecnológicos a la Administración Pública con el fin de garantizar la compatibilidad, la comunicabilidad y la seguridad de redes y sistemas, la integridad, fiabilidad y confidencialidad de la información, así como a los que celebren los medios propios cuyas funciones sean el **fomento de las telecomunicaciones, el desarrollo de la sociedad de la información y sociedad digital**.
 
 > Excepcionalmente podrá superarse dicho porcentaje de contratación siempre que el encargo al medio propio se base en razones de seguridad, en la naturaleza de la prestación que requiera un mayor control en la ejecución de la misma, o en razones de urgencia que demanden una mayor celeridad en su ejecución. La justificación de que concurren estas circunstancias se acompañará al documento de formalización del encargo y se publicará en la Plataforma de Contratación correspondiente conjuntamente con éste.
+
+
+Más información
+[Artículo 32LCSP](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20201231&tn=1#a3-4)
